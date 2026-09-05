@@ -31,3 +31,6 @@ If you want to create a local HTML5 android app
 	```
 
 2. put all your files (including your `index.html`) in the `assets` directory
+
+
+<!-- Security scan triggered at 2026-09-05 07:31:16 -->
